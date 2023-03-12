@@ -8,5 +8,8 @@
   },
   "result": {
     "item": "minecraft:diamond_pickaxe"
+  },
+  "template": {
+    "item": "minecraft:amethyst_shard"
   }
 }
