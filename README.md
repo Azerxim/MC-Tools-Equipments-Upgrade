@@ -4,7 +4,8 @@ Version: 4.0
 
 Minecraft: 1.20
 
-# Recipes
+--------------------------------------------
+# English
 
 ## Blast Furnace
 - Cooking chainmail items to get a chain
@@ -40,3 +41,42 @@ Items => Tools and Armors
 - Iron armor -> Golden armor
 - Iron or Golden armor -> Diamond armor
 - Diamond, Golden or Iron armor -> Leather armor
+
+
+--------------------------------------------
+# Français
+
+## Haut fourneau
+- Cuisson des objets en cotte de mailles pour obtenir une chaîne
+- Cuisson des objets en fer pour obtenir un lingot de fer
+- Cuisson des objets dorés pour obtenir un lingot d'or
+- Cuisson des objets en cuivre pour obtenir un lingot de cuivre
+- Cuisson des objets en diamant pour obtenir une émeraude (ferme anti-diamant)
+- Cuisson des objets de netherite pour obtenir un lingot de netherite
+- Cuisson du jukebox ou de la table d'enchantement pour obtenir un diamant
+- Cuisson de l'obsidienne qui pleure pour obtenir une obsidienne
+
+## Table de fusion
+Utilisation du modèle Amethyst (fragment d'améthyste) pour l'amélioration et la rétrogradation dans la table de fusion.
+
+Objets => Outils et Armures
+
+#### Améliorer
+- Outils en bois -> Outils en pierre
+- Outils en pierre -> Outils en fer
+- Armures en cotte de mailles -> Armures en fer
+- Armures en cuir -> Armures en fer ou en cotte de mailles
+- Objets en fer -> Objets en or
+- Objets en or ou en fer -> Objets en diamant
+- Objets en diamant -> Objets en Netherite
+
+#### Rétrograder
+- Objets en Netherite -> Objets en Diamant
+- Armures en Netherite, Diamant, Or ou Fer -> Armures en cotte de maille
+- Armures en Netherite, Diamant, Or, Fer ou Cotte de maille -> Armures en cuir
+
+#### Armures de cheval
+- Armure en cuir -> Armure en fer
+- Armure en fer -> Armure en or
+- Armure en fer ou en or -> Armure en diamant
+- Armure en diamant, or ou fer -> Armure en cuir
