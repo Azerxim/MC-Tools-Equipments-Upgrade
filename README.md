@@ -1,4 +1,4 @@
-# Tools & Equipements Upgrade
+# Tools & Equipments Upgrade
 
 Version: 4.0
 
