@@ -17,8 +17,8 @@ Minecraft: 1.20
 - Cooking jukebox or enchanting table to get a diamond
 - Cooking crying obsidian to get a obsidian
 
-## Smelting table
-Using Amethyst template (amethyst shard) for upgrade and downgrade in the smelting table.
+## Smithing Table
+Using Amethyst template (amethyst shard) for upgrade and downgrade in the smithing table.
 
 Items => Tools and Armors 
 
@@ -56,8 +56,8 @@ Items => Tools and Armors
 - Cuisson du jukebox ou de la table d'enchantement pour obtenir un diamant
 - Cuisson de l'obsidienne qui pleure pour obtenir une obsidienne
 
-## Table de fusion
-Utilisation du modèle Amethyst (fragment d'améthyste) pour l'amélioration et la rétrogradation dans la table de fusion.
+## Table du forgeron
+Utilisation du modèle Amethyst (fragment d'améthyste) pour l'amélioration et la rétrogradation dans la table du forgeron.
 
 Objets => Outils et Armures
 
