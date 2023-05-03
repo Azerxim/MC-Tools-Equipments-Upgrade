@@ -6,6 +6,7 @@ Minecraft: 1.20
 
 --------------------------------------------
 # English
+••••••••••••••••••••••
 
 ## Blast Furnace
 - Cooking chainmail items to get a chain
@@ -45,6 +46,7 @@ Items => Tools and Armors
 
 --------------------------------------------
 # Français
+••••••••••••••••••••••
 
 ## Haut fourneau
 - Cuisson des objets en cotte de mailles pour obtenir une chaîne
