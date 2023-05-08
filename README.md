@@ -82,3 +82,6 @@ Objets => Outils et Armures
 - Armure en fer -> Armure en or
 - Armure en fer ou en or -> Armure en diamant
 - Armure en diamant, or ou fer -> Armure en cuir
+
+--------------------------------------------
+[![TopazDev](https://download.topazdev.fr/Images/topazdev.png)](https://minecraft.topazdev.fr/)
