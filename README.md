@@ -1,4 +1,5 @@
 [![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/tools-equipments-upgrade)
+[![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/tools-equipments-upgrade)
 
 # Tools & Equipments Upgrade
 
