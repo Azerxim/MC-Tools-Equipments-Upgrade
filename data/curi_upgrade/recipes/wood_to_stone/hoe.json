@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_hoe"
   },
   "addition": {
-    "tag": "bastion:stone"
+    "tag": "curi_upgrade:stone"
   },
   "result": {
     "item": "minecraft:stone_hoe"
+  },
+  "template": {
+    "item": "minecraft:amethyst_shard"
   }
 }
