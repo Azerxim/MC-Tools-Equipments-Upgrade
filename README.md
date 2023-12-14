@@ -3,9 +3,9 @@
 
 # Tools & Equipments Upgrade
 
-Version: 4.0
+Version: 4.1
 
-Minecraft: 1.20
+Minecraft: 1.20+
 
 --------------------------------------------
 # English
