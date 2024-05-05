@@ -7,7 +7,7 @@
     "item": "minecraft:leather"
   },
   "result": {
-    "item": "minecraft:leather_horse_armor"
+    "id": "minecraft:leather_horse_armor"
   },
   "template": {
     "item": "minecraft:amethyst_shard"

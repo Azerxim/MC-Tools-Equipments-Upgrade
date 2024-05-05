@@ -7,7 +7,7 @@
     "item": "minecraft:iron_sword"
   },
   "result": {
-    "item": "minecraft:golden_sword"
+    "id": "minecraft:golden_sword"
   },
   "template": {
     "item": "minecraft:amethyst_shard"

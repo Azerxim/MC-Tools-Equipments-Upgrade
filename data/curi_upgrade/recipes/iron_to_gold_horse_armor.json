@@ -7,7 +7,7 @@
     "item": "minecraft:gold_ingot"
   },
   "result": {
-    "item": "minecraft:golden_horse_armor"
+    "id": "minecraft:golden_horse_armor"
   },
   "template": {
     "item": "minecraft:amethyst_shard"

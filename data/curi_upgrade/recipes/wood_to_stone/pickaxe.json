@@ -7,7 +7,7 @@
     "tag": "curi_upgrade:stone"
   },
   "result": {
-    "item": "minecraft:stone_pickaxe"
+    "id": "minecraft:stone_pickaxe"
   },
   "template": {
     "item": "minecraft:amethyst_shard"
