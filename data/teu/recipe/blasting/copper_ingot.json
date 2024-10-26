@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    "minecraft:spyglass",
+    "minecraft:lightning_rod"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  },
+  "experience": 50,
+  "cookingtime": 300
+}

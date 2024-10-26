@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:horse_armors",
+  "addition": "minecraft:leather",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:leather_horse_armor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_horse_armor",
+  "addition": "minecraft:diamond",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:diamond_horse_armor"
+  }
+}

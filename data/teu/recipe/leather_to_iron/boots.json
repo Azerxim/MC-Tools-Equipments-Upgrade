@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_boots",
+  "addition": "minecraft:iron_ingot",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:iron_boots"
+  }
+}

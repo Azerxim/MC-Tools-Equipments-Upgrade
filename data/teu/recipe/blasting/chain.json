@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    "minecraft:chainmail_boots",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_leggings"
+  ],
+  "result": {
+    "id": "minecraft:chain"
+  },
+  "experience": 50,
+  "cookingtime": 200
+}

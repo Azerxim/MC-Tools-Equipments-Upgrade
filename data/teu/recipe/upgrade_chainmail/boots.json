@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:boots",
+  "addition": "minecraft:chain",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:chainmail_boots"
+  }
+}

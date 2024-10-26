@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:boots",
+  "addition": "minecraft:leather",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:leather_boots"
+  }
+}
