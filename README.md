@@ -3,9 +3,9 @@
 
 # Tools & Equipments Upgrade
 
-Version: 5.0
+Version: 5.1
 
-Minecraft: 1.21
+Minecraft: 1.21.2 - 1.21.5
 
 --------------------------------------------
 # English
@@ -86,5 +86,3 @@ Objets => Outils et Armures
 - Armure en fer ou en or -> Armure en diamant
 - Armure en diamant, or ou fer -> Armure en cuir
 
---------------------------------------------
-[![TopazDev](https://dl.topazdev.fr/stock/images/web/topazdev-smoothwhite.png)](https://minecraft.topazdev.fr/)
