@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:leggings",
+  "addition": "minecraft:iron_chain",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:axes",
+  "addition": "#teu:stones",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "count": 1
+  }
+}

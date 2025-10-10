@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:horse_armors",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:golden_horse_armor",
+    "count": 1
+  }
+}

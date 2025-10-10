@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:chestplates",
+  "addition": "minecraft:diamond",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:diamond_chestplate",
+    "count": 1
+  }
+}

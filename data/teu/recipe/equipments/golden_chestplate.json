@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:chestplates",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:golden_chestplate",
+    "count": 1
+  }
+}

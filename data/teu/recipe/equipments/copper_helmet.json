@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:helmets",
+  "addition": "minecraft:copper_ingot",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:copper_helmet",
+    "count": 1
+  }
+}

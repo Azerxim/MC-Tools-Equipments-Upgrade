@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:shovels",
+  "addition": "#teu:stones",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "count": 1
+  }
+}

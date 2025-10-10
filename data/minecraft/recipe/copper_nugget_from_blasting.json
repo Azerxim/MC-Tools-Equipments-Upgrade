@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    "minecraft:copper_pickaxe",
+    "minecraft:copper_shovel",
+    "minecraft:copper_axe",
+    "minecraft:copper_hoe",
+    "minecraft:copper_sword",
+    "minecraft:copper_boots",
+    "minecraft:copper_chestplate",
+    "minecraft:copper_helmet",
+    "minecraft:copper_leggings",
+    "minecraft:copper_horse_armor"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  },
+  "experience": 70,
+  "cookingtime": 400
+}

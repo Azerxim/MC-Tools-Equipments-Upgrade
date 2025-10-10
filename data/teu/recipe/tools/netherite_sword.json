@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#teu:swords",
+  "addition": "minecraft:netherite_ingot",
+  "template": "minecraft:amethyst_shard",
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "count": 1
+  }
+}
