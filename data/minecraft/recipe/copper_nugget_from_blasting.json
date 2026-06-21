@@ -10,7 +10,8 @@
     "minecraft:copper_chestplate",
     "minecraft:copper_helmet",
     "minecraft:copper_leggings",
-    "minecraft:copper_horse_armor"
+    "minecraft:copper_horse_armor",
+    "minecraft:copper_nautilus_armor"
   ],
   "result": {
     "id": "minecraft:copper_ingot"
