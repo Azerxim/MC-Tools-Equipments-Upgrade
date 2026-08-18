@@ -1,86 +1,63 @@
 [![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/tools-equipments-upgrade)
 [![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/tools-equipments-upgrade)
 
-# Tools & Equipments Upgrade
+# ⚒️ Tools & Equipments Upgrade
 
-Version: 6.0
+**Upgrade at the smithing table. Recycle at the blast furnace.**
 
-Minecraft: 1.21.9 - 1.21.10
+A fully vanilla data pack that turns equipment progression into a two-way street: reforge your gear up or down the material tiers, and reclaim resources from anything you no longer need — no waste, no dead-end items.
 
---------------------------------------------
-# English
-••••••••••••••••••••••
+## ✨ Features
 
-## Blast Furnace
-- Cooking chainmail items to get a iron chain
-- Cooking iron items to get a iron ingot
-- Cooking copper items to get a copper ingot
-- Cooking golden items to get a gold ingot
-- Cooking copper items to get a copper ingot
-- Cooking diamond items to get a emerald (anti diamond farm)
-- Cooking netherite items to get a netherite ingot
-- Cooking jukebox or enchanting table to get a diamond
-- Cooking crying obsidian to get a obsidian
+### 🔨 Smithing Table Upgrades & Downgrades
 
-## Smithing Table
-Using Amethyst template (amethyst shard) for upgrade and downgrade in the smithing table.
+Using **amethyst shards** as the upgrade template, freely move tools, armor and horse armor **up or down** the material chain — go from wood to netherite, or scrap netherite back down to iron if you need to.
 
-Items => Tools and Armors 
+**Tools** (pickaxe, axe, sword, shovel, hoe):
+- Wooden ↔ Stone ↔ Iron ↔ Golden ↔ Diamond ↔ Netherite
 
-#### Upgrade and Downgrade 
-- Wooden tools <-> Stone tools
-- Stone tools <-> Iron tools
-- Chainmail armors <->  Iron armors
-- Leather armors <-> Iron or Chainmail armors
-- Iron items <-> Golden items
-- Golden or Iron items <-> Diamond items
-- Diamond items <-> Netherite items
-- Netherite, Diamond, Copper, Golden or Iron armors <-> Chainmail armors
-- Netherite, Diamond, Copper, Golden, Iron or Chainmail armors <-> Leather armors
+**Armor** (helmet, chestplate, leggings, boots):
+- Leather ↔ Chainmail ↔ Iron ↔ Golden ↔ Diamond ↔ Netherite
+- Copper armor integrates into the same chain alongside iron and gold
 
-#### Horse Armors
-- Leather armor <-> Iron armor
-- Iron armor <-> Copper armor
-- Iron armor <-> Golden armor
-- Iron or Golden armor <-> Diamond armor
-- Diamond, Golden or Iron armor <-> Leather armor
+**Horse Armor:**
+- Leather ↔ Iron ↔ Copper ↔ Golden ↔ Diamond
 
+Every conversion is fully **bidirectional** — upgrade for better protection, or downgrade to recover a lower tier without destroying the item.
 
---------------------------------------------
-# Français
-••••••••••••••••••••••
+### 🔥 Blast Furnace Recycling
 
-## Haut fourneau
-- Cuisson des objets en cotte de mailles pour obtenir une chaîne
-- Cuisson des objets en fer pour obtenir un lingot de fer
-- Cuisson des objets en cuivre pour obtenir un lingot de cuivre
-- Cuisson des objets dorés pour obtenir un lingot d'or
-- Cuisson des objets en cuivre pour obtenir un lingot de cuivre
-- Cuisson des objets en diamant pour obtenir une émeraude (ferme anti-diamant)
-- Cuisson des objets de netherite pour obtenir un lingot de netherite
-- Cuisson du jukebox ou de la table d'enchantement pour obtenir un diamant
-- Cuisson de l'obsidienne qui pleure pour obtenir une obsidienne
+Smelt equipment and select blocks to recover their raw materials instead of losing them:
 
-## Table du forgeron
-Utilisation du modèle Amethyst (fragment d'améthyste) pour l'amélioration et la rétrogradation dans la table du forgeron.
+| Item | Yields |
+|---|---|
+| Chainmail gear | Iron chain |
+| Iron gear | Iron ingot |
+| Copper gear | Copper ingot |
+| Golden gear | Gold ingot |
+| Diamond gear | Emerald |
+| Netherite gear | Netherite ingot |
+| Jukebox / Enchanting Table | Diamond |
+| Crying Obsidian | Obsidian |
 
-Objets => Outils et Armures
+Perfect for cleaning up storage, recovering materials from damaged or unwanted gear, and closing the loop on equipment progression.
 
-#### Améliorer et Rétrograder
-- Outils en bois <-> Outils en pierre
-- Outils en pierre <-> Outils en fer
-- Armures en cotte de mailles <-> Armures en fer
-- Armures en cuir <-> Armures en fer ou en cotte de mailles
-- Objets en fer <-> Objets en cuivre
-- Objets en fer <-> Objets en or
-- Objets en or ou en fer <-> Objets en diamant
-- Objets en diamant <-> Objets en Netherite
-- Armures en Netherite, Diamant, Or ou Fer <-> Armures en cotte de maille
-- Armures en Netherite, Diamant, Or, Fer ou Cotte de maille <-> Armures en cuir
+## 🕹️ How to use
 
-#### Armures de cheval
-- Armure en cuir <-> Armure en fer
-- Armure en fer <-> Armure en cuivre
-- Armure en fer <-> Armure en or
-- Armure en fer ou en or <-> Armure en diamant
-- Armure en diamant, or ou fer <-> Armure en cuir
+1. Install the data pack into your world's `datapacks` folder (or via `/datapack enable`).
+2. Upgrade/downgrade: place your tool/armor + an amethyst shard in the **smithing table**.
+3. Recycle: smelt equipment or supported blocks in a **blast furnace** as usual.
+
+Fully vanilla mechanics — no new items, blocks, or commands. Survival- and multiplayer-safe.
+
+## 📦 Compatibility
+
+| | |
+|---|---|
+| **Minecraft versions** | 1.20.x · 1.21.x · 26.1.x · 26.2 |
+| **Type** | Data Pack (no mods required) |
+| **License** | MIT |
+
+## 📥 Installation
+
+Like any data pack: drop the downloaded folder into `.minecraft/saves/<your_world>/datapacks/`, then run `/reload` or restart the world.
